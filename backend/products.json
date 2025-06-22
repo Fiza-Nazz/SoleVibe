@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "name": "Puma RS-X",
+    "price": 90.00,
+    "description": "Bold retro-style sneakers for men",
+    "sizes": ["8", "9", "10", "11"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749587212/puma_ehwqrh.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Reebok Nano X",
+    "price": 130.00,
+    "description": "Durable training shoes for women",
+    "sizes": ["6", "7", "8", "9"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749587441/reeebok_pmbmpc.webp"
+  },
+  {
+    "id": 3,
+    "name": "Converse Chuck Taylor",
+    "price": 70.00,
+    "description": "Classic high-top shoes for all ages",
+    "sizes": ["5", "6", "7", "8"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749587574/image_5_osjh6u.webp"
+  },
+  {
+    "id": 4,
+    "name": "New Balance Fresh Foam",
+    "price": 110.00,
+    "description": "Lightweight running shoes for men",
+    "sizes": ["9", "10", "11", "12"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749587670/image_2_cwy5nt.avif"
+  },
+  {
+    "id": 5,
+    "name": "Under Armour HOVR",
+    "price": 140.00,
+    "description": "Advanced cushioning for boys",
+    "sizes": ["4", "5", "6"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749587745/image_3_vpu9sz.webp"
+  },
+  {
+    "id": 6,
+    "name": "Vans Old Skool",
+    "price": 80.00,
+    "description": "Stylish skate shoes for girls",
+    "sizes": ["3", "4", "5"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749587954/image_4_bysmzs.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Asics Gel-Kayano",
+    "price": 160.00,
+    "description": "Premium stability shoes for women",
+    "sizes": ["7", "8", "9"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749588065/image_5_rmfe3h.webp"
+  },
+  {
+    "id": 8,
+    "name": "Skechers Arch Fit",
+    "price": 100.00,
+    "description": "Orthopedic support shoes for men",
+    "sizes": ["10", "11", "12"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749588436/image_8_ixbbiw.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fila Disruptor II",
+    "price": 85.00,
+    "description": "Chunky platform shoes for women",
+    "sizes": ["6", "7", "8"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749588507/image_9_tfwlpv.webp"
+  },
+  {
+    "id": 10,
+    "name": "Hoka One One Clifton",
+    "price": 135.00,
+    "description": "Max cushioning for men’s long runs",
+    "sizes": ["9", "10", "11"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749588635/hoka_znlxmh.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Timberland 6-Inch Boot",
+    "price": 180.00,
+    "description": "Rugged boots for boys",
+    "sizes": ["5", "6", "7"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749588703/timer_ooiggd.avif"
+  },
+  {
+    "id": 12,
+    "name": "Crocs Classic Clog",
+    "price": 50.00,
+    "description": "Comfortable clogs for children",
+    "sizes": ["C4", "C5", "C6"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749588801/child_tcmwzy.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Salomon X Ultra",
+    "price": 145.00,
+    "description": "Hiking shoes for men",
+    "sizes": ["10", "11", "12"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749588942/child_2_du76vh.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Merrell Moab 2",
+    "price": 120.00,
+    "description": "Waterproof hiking shoes for women",
+    "sizes": ["7", "8", "9"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749589091/girl_shoe_rmriyr.jpg"
+  },
+  {
+    "id": 15,
+    "name": "DC Shoes Trase",
+    "price": 75.00,
+    "description": "Skate shoes for boys",
+    "sizes": ["4", "5", "6"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749589156/boy_foi297.webp"
+  },
+  {
+    "id": 16,
+    "name": "Keds Champion",
+    "price": 65.00,
+    "description": "Timeless canvas shoes for girls",
+    "sizes": ["3", "4", "5"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749591723/new_shoe_cp7ufp.avif"
+  },
+  {
+    "id": 17,
+    "name": "Brooks Ghost",
+    "price": 140.00,
+    "description": "Smooth ride running shoes for men",
+    "sizes": ["9", "10", "11"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749591783/men_shoe_iiwhn8.webp"
+  },
+  {
+    "id": 18,
+    "name": "Ecco Soft 7",
+    "price": 150.00,
+    "description": "Elegant leather shoes for women",
+    "sizes": ["6", "7", "8"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749596263/coco_syehib.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Columbia Newton Ridge",
+    "price": 110.00,
+    "description": "All-weather hiking boots for men",
+    "sizes": ["10", "11", "12"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749591934/women_mrgq8z.webp"
+  },
+  {
+    "id": 20,
+    "name": "Clarks Desert Boot",
+    "price": 130.00,
+    "description": "Classic suede boots for women",
+    "sizes": ["7", "8", "9"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749592024/womennnn_sw933m.jpg"
+  },
+  {
+    "id": 21,
+    "name": "OshKosh B’gosh Sneaker",
+    "price": 45.00,
+    "description": "Casual shoes for children",
+    "sizes": ["C5", "C6", "C7"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749592131/baby_mk3c0h.webp"
+  },
+  {
+    "id": 22,
+    "name": "Saucony Guide",
+    "price": 125.00,
+    "description": "Supportive running shoes for men",
+    "sizes": ["9", "10", "11"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749592198/red_vsnqra.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Altra Paradigm",
+    "price": 155.00,
+    "description": "Zero-drop shoes for women",
+    "sizes": ["6", "7", "8"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749592416/rows_ezfwck.webp"
+  },
+  {
+    "id": 24,
+    "name": "New Balance 574",
+    "price": 95.00,
+    "description": "Retro lifestyle shoes for boys",
+    "sizes": ["4", "5", "6"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749592776/blue_ghfyeg.webp"
+  },
+  {
+    "id": 25,
+    "name": "TOMS Alpargata",
+    "price": 60.00,
+    "description": "Comfortable slip-ons for girls",
+    "sizes": ["3", "4", "5"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749592860/yellow_a3pbad.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Mizuno Wave Prophecy",
+    "price": 170.00,
+    "description": "High-end running shoes for men",
+    "sizes": ["10", "11", "12"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1750417667/brand_broo_pzytd1.avif"
+  },
+  {
+    "id": 27,
+    "name": "Dr. Martens 1460",
+    "price": 140.00,
+    "description": "Iconic leather boots for women",
+    "sizes": ["6", "7", "8"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749595484/dr_bmupyb.webp"
+  },
+  {
+    "id": 28,
+    "name": "Stride Rite Soft Motion",
+    "price": 55.00,
+    "description": "Supportive shoes for children",
+    "sizes": ["C4", "C5", "C6"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593156/bbays_shoes_lebmp2.webp"
+  },
+  {
+    "id": 29,
+    "name": "Nike Air Force 1",
+    "price": 110.00,
+    "description": "Stylish low-top sneakers for men",
+    "sizes": ["8", "9", "10"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593330/kala_yuzdlb.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Adidas Stan Smith",
+    "price": 90.00,
+    "description": "Classic tennis shoes for women",
+    "sizes": ["6", "7", "8"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593353/giles_shoes_mbklaq.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Puma Suede",
+    "price": 75.00,
+    "description": "Vintage-inspired shoes for boys",
+    "sizes": ["4", "5", "6"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593453/red_wi_hiet_gqlijr.webp"
+  },
+  {
+    "id": 32,
+    "name": "Reebok Classic",
+    "price": 80.00,
+    "description": "Retro sneakers for girls",
+    "sizes": ["3", "4", "5"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593518/shoe_ogic5e.webp"
+  },
+  {
+    "id": 33,
+    "name": "Under Armour Curry",
+    "price": 120.00,
+    "description": "Basketball shoes for boys",
+    "sizes": ["5", "6", "7"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593670/new_vrsl9h.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Vans Slip-On",
+    "price": 70.00,
+    "description": "Easy-on shoes for girls",
+    "sizes": ["3", "4", "5"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593787/pink_vf6zxc.webp"
+  },
+  {
+    "id": 35,
+    "name": "Asics Gel-Nimbus",
+    "price": 160.00,
+    "description": "Soft cushioning for women",
+    "sizes": ["7", "8", "9"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593839/light_b2lw5b.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Skechers D’Lites",
+    "price": 90.00,
+    "description": "Lightweight shoes for children",
+    "sizes": ["C5", "C6", "C7"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749593936/children_nsnbi8.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Hoka Carbon X",
+    "price": 180.00,
+    "description": "Carbon-plated racing shoes for men",
+    "sizes": ["9", "10", "11"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749595866/hokiiiii_jhgaes.webp"
+  },
+  {
+    "id": 38,
+    "name": "On Cloudflow",
+    "price": 165.00,
+    "description": "Lightweight running shoes with CloudTec technology",
+    "sizes": ["8", "9", "10", "11"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749597235/note_w1qxbe.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Salomon Speedcross",
+    "price": 130.00,
+    "description": "Aggressive trail running shoes for men",
+    "sizes": ["9", "10", "11", "12"],
+    "image": "https://res.cloudinary.com/dood2c2ca/image/upload/v1749597137/bro_zinpay.jpg"
+  }
+]
