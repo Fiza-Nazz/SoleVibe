@@ -7,6 +7,11 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// ✅ Root route for testing backend live
+app.get("/", (req, res) => {
+  res.send("Shoe Ecommerce Backend is Running ✅");
+});
+
 // API to get all products from local JSON file
 app.get("/api/products", (req, res) => {
   fs.readFile("./products.json", "utf8", (err, data) => {
